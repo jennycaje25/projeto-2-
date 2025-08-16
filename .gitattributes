@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 # Auto detect text files and perform LF normalization
 * text=auto
+=======
+* text=auto eol=lf
+* text=auto eol=crlf
+>>>>>>> c2250362517279e9a181bd06f5b277e970ff1f4d
